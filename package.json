@@ -1,0 +1,27 @@
+{
+    "name": "trabalhopw",
+    "version": "1.0.0",
+    "description": "TDE Progamação WEB",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no teste specified\" && exit 1",
+        "start": "nodemon src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GabrielS1903/TDE-s/blob/main/C%C3%B3digo%20Fonte%20TDE-API"
+    },
+    "author": "Gabriel Renato Schons e Talisson Olivotto",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "cpf-check": "^3.0.0",
+        "cpf-cnpj-validator": "^1.0.3",
+        "express": "^4.19.2",
+        "mongoose": "^8.3.3",
+        "validator": "^13.11.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    }
+}
