@@ -6,9 +6,6 @@ Esta é uma aplicação simples para gerenciamento de usuários, desenvolvida co
 
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Instalação
 
